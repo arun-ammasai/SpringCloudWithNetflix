@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EurekaServer/.mvn/wrapper"/>
+	<classpathentry kind="src" path="EurekaServer/src/main/java"/>
+	<classpathentry kind="src" path="EurekaServer/src/test/java"/>
+	<classpathentry kind="src" path="RestAPIConsumer/.mvn/wrapper"/>
+	<classpathentry kind="src" path="RestAPIConsumer/src/main/java"/>
+	<classpathentry kind="src" path="RestAPIConsumer/src/test/java"/>
+	<classpathentry kind="src" path="RestAPIProducer/.mvn/wrapper"/>
+	<classpathentry kind="src" path="RestAPIProducer/src/main/java"/>
+	<classpathentry kind="src" path="RestAPIProducer/src/test/java"/>
+	<classpathentry kind="output" path="EurekaServer/target/classes"/>
+</classpath>
